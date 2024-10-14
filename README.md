@@ -9,7 +9,7 @@ Currently learning Python and C++ to improve my OOP skills, following a backend 
 ## 🌐 Socials:
 
 <div align="left">
-  <a href="mailto:luizfellipe6843@gmail.com">
+  <a href="mailto:luizfellipe8533@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"/>
   </a>
   <a href="https://www.linkedin.com/in/luiz-felipe-da-pereira">
