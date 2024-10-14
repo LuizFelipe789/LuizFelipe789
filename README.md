@@ -6,14 +6,6 @@ Backend developer and software engineer with experience in Elixir/Erlang. I have
   
 Currently learning Python and C++ to improve my OOP skills, following a backend roadmap as a reference to enhance my abilities and address some areas that don't seem as strong.
 
-## 🌐 Socials:
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/luiz-felipe-da-pereira">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
-  </a>
-</div>
-
 ## 🚀 Tech Skills:
 
 In this section, I list some languages that I use most often and am currently learning, as well as some frameworks and tools I've used in my recent experience. There are more, but these are the most commonly used, with a focus on backend development.
