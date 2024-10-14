@@ -1,4 +1,4 @@
-## Hi! I'm Luiz Felipe 👋
+# Hi! I'm Luiz Felipe 👋
 
 I'm Luiz Felipe, I'm 22 years old, and I live in São Paulo, SP.
 
