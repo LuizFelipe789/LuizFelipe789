@@ -4,7 +4,7 @@ I'm Luiz Felipe, I'm 22 years old, and I live in São Paulo, SP.
 
 Backend developer and software engineer with experience in Elixir/Erlang. I have worked with Agile methodologies, including Scrum and Kanban, to manage development processes effectively.
   
-Currently learning Python and C++ to improve my OOP skills, following a backend roadmap as a reference to enhance my abilities and address some areas that don't seem as strong.
+Currently learning Python and C++ to improve my OOP skills, following the [backend roadmap](https://roadmap.sh/backend) as a reference to enhance my abilities and address some areas that don't seem as strong.
 
 ## 🚀 Tech Skills:
 
